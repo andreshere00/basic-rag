@@ -1,2 +1,2 @@
-# basic-rag
-A repository which contains the code to execute a basic RAG (Retrieval Augmented Generation) system.
+# Basic RAG (Retrieval Augmented Generation)
+A repository which contains the code to execute a basic RAG system.
